@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "148399319049",
+    "firebase_url": "https://scoremonitor.firebaseio.com",
+    "project_id": "scoremonitor",
+    "storage_bucket": "scoremonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148399319049:android:bb5bf92095390276",
+        "android_client_info": {
+          "package_name": "app.com.cricapp.prashantmaurya.scoremonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148399319049-v8npij4fif2dfu3m6gi45admodq37vco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.cricapp.prashantmaurya.scoremonitor",
+            "certificate_hash": "566C55CDA8B35A8F96C852159DCB432532C6D9F4"
+          }
+        },
+        {
+          "client_id": "148399319049-bgn4d1kjcsni74p4g9pesi5ioga8872p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9H0qSh9gplsGlSCAWgrmk5oUiWKJ0zk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148399319049-bgn4d1kjcsni74p4g9pesi5ioga8872p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
